@@ -15,6 +15,6 @@ Also resolves the issue of configuration duplication
 
 **New Description**
 
-Pineappleguy03 Here! There was this weird LethalLevelLoaderFixed copy that was released by the creator Zhelderon. Unfortunately he never changed ANYTHING about this update for V50 and it got deleted. I am simply here because this fix of a fix mod worked with most interior mods such as Scoopy's Variety Mod, Bozoros, Affliction, LCoffice, ETC. So I just wanted to reupload this so that people can use it till Bathby creates a proper update for the original LethalLevelLoader. I could not get any form of contact with Zhelderon. And if you see this, just contact me via Discord! (Pineappleguy03). Cheers!
+Pineappleguy03 Here! There was this weird LethalLevelLoaderFixed copy that was released by the creator Zhelderon. Unfortunately he never changed ANYTHING about this update for V50 and it got deleted. I am simply here because this fix of a fix mod worked with most interior mods such as Scoopy's Variety Mod, Bozoros, Affliction, LCoffice, ETC. So I just wanted to reupload this so that people can use it till Batby creates a proper update for the original LethalLevelLoader. I could not get any form of contact with Zhelderon. And if you see this, just contact me via Discord! (Pineappleguy03). Cheers!
 
 P.S. This mod was released before I think Bathby even started on the update for V50. That's what makes this mod so weird... But it works and I just want people to use it as a alternative.
